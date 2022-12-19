@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import inputT from './inputT' ;
+import InputT from './InputT';
 import axios from "axios";
 
 export const Singin = (props) => { const [matricule, setMatricule] = useState('');
